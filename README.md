@@ -16,6 +16,9 @@ San Francisco takes the lead with the highest sales at $8.26M 🌉
 
 🚀 Top Sold Products:
 The Macbook Pro Laptop was the star performer, accounting for $8.03M in sales 🌟
+
+# Dataset for the prject
+[Dataset](https://github.com/Vara9/sales_analysis/blob/main/sales%20%20Power%20_BI%20project/Sales%20Data.csv)
 # power BI report:
 [project](https://github.com/Vara9/sales_analysis/blob/main/sales%20%20Power%20_BI%20project/BI%20report%20on%20sales%20dataset.pbix)
 
