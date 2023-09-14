@@ -1,9 +1,8 @@
-# sales_analysis
-The Project is related to a dataset of sales that contains details regarding the products which are sold or ordered in different states and cities and quntity of order etc
+
 # Analizing the sales dataset using power BI
-Analysing the dataset using power BI i have come to know about insight that i have mentioned here
+Analysing the dataset using power BI i have come to know about insight that i have mentioned here.
 
-
+#    
 📊 A Few Insights:
 Total Sales: $34.49M 💰
 Total Products Analyzed: 19 🛍️
